@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 - Present
-* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 - 2024 (graduated June 2024)
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 - Present (supervised by Professor Junxian He)
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 - 2024 (graduated June 2024; previously advised by Professor Junxian He)
 
 Research Experience
 ======
